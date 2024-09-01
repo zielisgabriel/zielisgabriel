@@ -14,7 +14,7 @@
 ### Sobre &lt;Gabriel&gt;<br>
 - 🔭 Atualmente não estou em nenhuma experiência profissional;
 - 🌱 Estou aprendendo Front-end e seus fundamentos;
-- 👯 Procuro trabalhar futuramente na carreira que que eu mais desejo, Full-stack;
+- 👯 Procuro trabalhar futuramente na carreira de Full-stack;
 - 📫 Para conversar sobre contratação, mande uma mensagem no email josegabrielas0586@gmail.com;
 - ⚡ Sempre fui apaixonado em tecnologia, e desenvolver sites e códigos de programação é só mais uma paixão na área;<br>
 
