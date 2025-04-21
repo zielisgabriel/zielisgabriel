@@ -4,7 +4,7 @@
 
 #### Olá! Sou um estudante apaixonado pela área de TI, com o objetivo de me tornar um programador remunerado e consistente, sempre buscando evoluir minhas habilidades. Estou no 3º semestre do curso de **Análise e Desenvolvimento de Sistemas** na **Estácio - Campus Parangaba**, e cada dia mais me aprofundo no incrível universo da programação.  
 
-💻 Tenho experiência em diversas linguagens e tecnologias, incluindo **Python**, **PHP**, **JavaScript**, **Node.js**, **MySQL**, **HTML** e **CSS**. No entanto, não me limito apenas ao conteúdo das aulas da faculdade. Estou sempre explorando tutoriais, artigos, cursos e vídeos no YouTube, tanto em **português** quanto em **inglês** (uma língua na qual estou me esforçando para ser fluente).  
+💻 Tenho experiência em diversas linguagens e tecnologias, incluindo **NextJS**, **NodeJS**, **TypeScript**, **PostgreSQL**, **MySQL**, **Java** e **Docker**. No entanto, não me limito apenas ao conteúdo das aulas da faculdade. Estou sempre explorando tutoriais, artigos, cursos e vídeos no YouTube, tanto em **português** quanto em **inglês** (uma língua na qual estou me esforçando para ser fluente).  
 
 📚 Sou movido pela curiosidade e pelo desejo constante de aprender. Acredito que a prática diária e o esforço consistente são a chave para dominar a programação e alcançar meus objetivos profissionais.  
 
@@ -18,19 +18,23 @@
 
 ### Linguagens de Programação, Frameworks e Bibliotecas:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Infra:
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Ferramentas
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
