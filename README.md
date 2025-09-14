@@ -2,13 +2,13 @@
 
 ## 🎓 Sobre Mim
 
-#### Olá! Sou um estudante apaixonado pela área de TI, com o objetivo de me tornar um programador remunerado e consistente, sempre buscando evoluir minhas habilidades. Estou no 3º semestre do curso de **Análise e Desenvolvimento de Sistemas** na **Estácio - Campus Parangaba**, e cada dia mais me aprofundo no incrível universo da programação.  
+#### Olá! Sou um estudante apaixonado pela área de TI, com o objetivo de me tornar um programador remunerado e consistente, sempre buscando evoluir minhas habilidades. Curso **Análise e Desenvolvimento de Sistemas** na **Estácio - Campus Parangaba**, e cada dia mais me aprofundo no incrível universo da programação.  
 
-💻 Tenho experiência em diversas linguagens e tecnologias, incluindo **NextJS**, **NodeJS**, **TypeScript**, **PostgreSQL**, **MySQL**, **Java** e **Docker**. No entanto, não me limito apenas ao conteúdo das aulas da faculdade. Estou sempre explorando tutoriais, artigos, cursos e vídeos no YouTube, tanto em **português** quanto em **inglês** (uma língua na qual estou me esforçando para ser fluente).  
+💻 Tenho experiência em diversas linguagens e tecnologias, incluindo **NextJS**, **Spring Boot**, **TypeScript**, **PostgreSQL**, **MongoDB**, **Java**, **Docker** e **AWS**. No entanto, não me limito apenas ao conteúdo das aulas da faculdade. Estou sempre explorando tutoriais, artigos, cursos e vídeos no YouTube, tanto em **português** quanto em **inglês** (uma língua na qual estou me esforçando para ser fluente).  
 
 📚 Sou movido pela curiosidade e pelo desejo constante de aprender. Acredito que a prática diária e o esforço consistente são a chave para dominar a programação e alcançar meus objetivos profissionais.  
 
-🌟 Meu foco é criar soluções eficientes e criativas, enquanto continuo expandindo meu conhecimento nas tecnologias mais relevantes do mercado. Além disso, meu interesse pela comunidade tech me motiva a colaborar em projetos, trocar ideias e aprender com outros desenvolvedores.  
+🌟 Meu foco é criar soluções eficientes e criativas, enquanto continuo expandindo meu conhecimento nas tecnologias mais relevantes do mercado. Além disso, meu interesse pela comunidade tech me motiva a colaborar em projetos, trocar ideias e aprender com outros desenvolvedores.
 
 📩 Se você quiser trocar uma ideia sobre desenvolvimento ou tiver uma oportunidade interessante, sinta-se à vontade para entrar em contato!
 
